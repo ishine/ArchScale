@@ -11,6 +11,7 @@ ArchScale is a comprehensive toolkit for training and evaluating neural language
 
 
 ## Updates
+- [Sept. 18] Phi-4-mini-flash has been accepted by NeurIPS 2025!
 - [July 18] Released the code for large-scale pre-training of Phi-4-mini-flash!
 - [July 9] Released the code for training [Decoder-Hybrid-Decoder Architectures](https://aka.ms/flashreasoning-paper) ([poster](assets/sambay%20poster.pdf)) with μP++, and the model checkpoint for [Phi-4-mini-flash-reasoning](https://huggingface.co/microsoft/Phi-4-mini-flash-reasoning) ⚡
 <p align="center">
