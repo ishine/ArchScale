@@ -31,7 +31,7 @@ ArchScale is a comprehensive toolkit for training and evaluating neural language
 
 ## Pretraining
 
-We provide the [`Dockerfile`](Dockerfile) for setting up the training and evaluation environments. One can refer to the [Samba](https://github.com/microsoft/Samba/?tab=readme-ov-file#data-preparation) codebase for SlimPajama data tokenization. We also provide the pre-tokenized SlimPajama data [here](https://huggingface.co/datasets/jsun/Prolong_64K_v2_Llama2_Tokenizer#slimpajama_llama2_tokenizer).
+We provide the [`Dockerfile`](Dockerfile) for setting up the training and evaluation environments. One can refer to the [Samba](https://github.com/microsoft/Samba/?tab=readme-ov-file#data-preparation) codebase for SlimPajama data tokenization. We also provide the pre-tokenized SlimPajama data [here](https://huggingface.co/datasets/jsun/slimpajama_Llama2_Tokenizer).
 
 ### Pretrain Phi4-mini-Flash
 
